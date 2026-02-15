@@ -1,0 +1,11 @@
+streamlit
+wikipedia
+numpy
+sympy
+requests
+pytesseract
+gTTS
+deep_translator
+PyPDF2
+Pillow
+pandas
